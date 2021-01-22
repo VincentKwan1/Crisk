@@ -1,0 +1,2 @@
+1. Mate(+number) indicates that the player making the move can deliver a mate. If it is Mate(-number) it means that the player making the move is about to get to mated.
+2. board.turn returns a Bool value - 1 if White to move and 0 if Black (t or f)
